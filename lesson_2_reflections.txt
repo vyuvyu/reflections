@@ -11,3 +11,6 @@ It ensures that you put a logical chunk in the staging area and then commit it. 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to make an alternate version. You can have all versions be accessible
+
+How do the diagrams help you visualize the branch structure?
+Diagrams are necessary to map out all of the major features and changes you’re developing simultaneously.
