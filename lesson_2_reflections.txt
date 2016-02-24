@@ -1,33 +1,7 @@
-How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+What happens when you initialize a repository? Why do you need to do it?
 
-    pinpoints where you made changes
+You are starting a new project that you want to save on Git.
 
-How could having easy access to the entire history of a file make you a more
-efficient programmer in the long term?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-    You can use older versions as bases for new files.
-
-What do you think are the pros and cons of manually choosing when to create a
-commit, like you do in Git, vs having versions automatically saved, like Google
-docs does?
-
-    You control what goes public. 
-
-Why do you think some version control systems, like Git, allow saving multiple
-files in one commit, while others, like Google Docs, treat each file separately?
-
-    Just different systems.
-
-How can you use the commands git log and git diff to view the history of files?
-
-  Git lgo - shows commits/ git diff - compares version of same file.
-
-How might using version control make you more confident to make changes that
-could break something?
-    You can also revert back if you make a mistake. 
-
-Now that you have your workspace set up, what do you want to try using Git for?
-
-    code.
-    
+It is the intermediary area before committing.
