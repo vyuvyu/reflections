@@ -5,3 +5,9 @@ You are starting a new project that you want to save on Git.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is the intermediary area before committing.
+
+How can you use the staging area to make sure you have one commit per logical change?
+It ensures that you put a logical chunk in the staging area and then commit it. Because you have to take it to staging first, you have to divide the work logically.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to make an alternate version. You can have all versions be accessible
