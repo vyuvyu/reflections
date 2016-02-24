@@ -14,3 +14,6 @@ When you want to make an alternate version. You can have all versions be accessi
 
 How do the diagrams help you visualize the branch structure?
 Diagrams are necessary to map out all of the major features and changes you’re developing simultaneously.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combines two sets of changes. The diagram shows that we return the history of both sets.
