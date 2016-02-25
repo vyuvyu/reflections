@@ -17,3 +17,6 @@ Diagrams are necessary to map out all of the major features and changes you’re
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Combines two sets of changes. The diagram shows that we return the history of both sets.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Auto is easy when changes are obvious. Manual ones allow for control but are hard to negotiate between the different people’s versions.
